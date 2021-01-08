@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-08T12:26:38.195Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="zqCcBNPn2Yw6LrIcZsIQ" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-08T13:19:53.920Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="7MjE5IEVNVRZoL0ofqLC" version="14.1.8" type="github">
   <diagram id="Re2_eKQuALezutpp5Ufv" name="Page-1">
     <mxGraphModel dx="3760" dy="1748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -204,7 +204,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="neoo7o6oHTqreek1lL6x-14" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;" vertex="1" parent="1">
-          <mxGeometry x="-2100" y="-250" width="100" height="100" as="geometry" />
+          <mxGeometry x="-2105" y="-280" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="neoo7o6oHTqreek1lL6x-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="neoo7o6oHTqreek1lL6x-15" target="neoo7o6oHTqreek1lL6x-14">
           <mxGeometry relative="1" as="geometry" />
@@ -219,7 +219,7 @@
           <mxGeometry x="-1397" y="-140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="neoo7o6oHTqreek1lL6x-20" value="Button" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1803" y="-190" width="100" height="60" as="geometry" />
+          <mxGeometry x="-1447" y="-465" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="neoo7o6oHTqreek1lL6x-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="neoo7o6oHTqreek1lL6x-21" target="neoo7o6oHTqreek1lL6x-16">
           <mxGeometry relative="1" as="geometry">
@@ -239,16 +239,30 @@
           <mxGeometry x="-2000" y="-495" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="neoo7o6oHTqreek1lL6x-26" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="-2200" y="-413" width="100" height="100" as="geometry" />
+          <mxGeometry x="-1760" y="-740" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="neoo7o6oHTqreek1lL6x-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="neoo7o6oHTqreek1lL6x-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1860" y="-100" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="neoo7o6oHTqreek1lL6x-27" value="" style="shape=mxgraph.bpmn.script_task;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-2190" y="-94" width="14" height="14" as="geometry" />
+          <mxGeometry x="-1920" y="-180" width="10" height="14" as="geometry" />
         </mxCell>
         <mxCell id="neoo7o6oHTqreek1lL6x-28" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.quadArrow;dy=10;dx=20;notch=24;arrowHead=10;" vertex="1" parent="1">
-          <mxGeometry x="-2200" y="-50" width="100" height="100" as="geometry" />
+          <mxGeometry x="-2260" y="-200" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="neoo7o6oHTqreek1lL6x-30" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1830" y="-485" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="neoo7o6oHTqreek1lL6x-33" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pyramid;dx1=0.49;dx2=0.68;dy1=0.9;dy2=0.52;rotation=-60;" vertex="1" parent="1">
+          <mxGeometry x="-1380" y="-770" width="150" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="neoo7o6oHTqreek1lL6x-34" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-2020" y="-740" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="neoo7o6oHTqreek1lL6x-35" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.cone2;dx=0.5;dy=0.68;" vertex="1" parent="1">
+          <mxGeometry x="-2200" y="-440" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
