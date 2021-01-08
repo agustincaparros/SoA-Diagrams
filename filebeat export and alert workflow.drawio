@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-08T11:45:57.297Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="vRbhK5MiVMAw7AJikhCI" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-08T11:46:35.707Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="nTY5dbaAB35FlXKi5z9Y" version="14.1.8" type="github">
   <diagram id="Re2_eKQuALezutpp5Ufv" name="Page-1">
     <mxGraphModel dx="3760" dy="1748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -211,6 +211,12 @@
         </mxCell>
         <mxCell id="neoo7o6oHTqreek1lL6x-16" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=-1;hachureGap=8;fillStyle=cross-hatch;fillColor=#006600;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="-1397" y="-140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="neoo7o6oHTqreek1lL6x-20" value="Button" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1840" y="-50" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="neoo7o6oHTqreek1lL6x-21" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=boundInt;symbol=error;" vertex="1" parent="1">
+          <mxGeometry x="-2240" y="-120" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
