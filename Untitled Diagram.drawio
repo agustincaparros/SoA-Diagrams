@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T10:39:48.975Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="llmE3SQ4iNxe3WTjE61w" version="14.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-25T11:32:54.006Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="1AVYvJBTR-dri5R6AozK" version="14.2.2" type="github">
   <diagram name="Page-1" id="38b20595-45e3-9b7f-d5ca-b57f44c5b66d">
     <mxGraphModel dx="1599" dy="1136" grid="1" gridSize="15" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1043" pageHeight="1181" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="48ef80bc37b76060-383" value="MESA&amp;nbsp;&lt;br&gt;100 x 100" style="shape=ellipse;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;align=center;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="720" width="390" height="390" as="geometry" />
+          <mxGeometry x="255" y="15" width="390" height="390" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-2" value="" style="shape=rect;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;align=center;html=1;text=moto" vertex="1" parent="1">
           <mxGeometry x="465" y="285" width="240" height="690" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-3" value="TABLA PLANCHA&lt;br&gt;60 x 120" style="shape=rect;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;align=center;html=1;text=moto;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="537" y="795" width="480" height="225" as="geometry" />
+          <mxGeometry x="537" y="930" width="480" height="225" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-6" value="" style="shape=rect;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;align=center;html=1;text=moto;direction=west;" vertex="1" parent="1">
           <mxGeometry x="780" y="255" width="240" height="360" as="geometry" />
@@ -29,16 +29,16 @@
           <mxGeometry x="642" y="255" width="240" height="360" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-12" value="MOTO&lt;br&gt;61 x 175" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="420" y="240" width="240" height="690" as="geometry" />
+          <mxGeometry x="225" y="450" width="240" height="690" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-13" value="CAJA ARMARIO&lt;br&gt;x" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="255" y="570" width="165" height="135" as="geometry" />
+          <mxGeometry x="480" y="960" width="165" height="135" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-14" value="CAJA ARMARIO&lt;br&gt;x" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="240" y="795" width="165" height="135" as="geometry" />
+          <mxGeometry x="660" y="870" width="165" height="135" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-15" value="CAJA ARMARIO&lt;br&gt;x" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="420" y="795" width="165" height="135" as="geometry" />
+          <mxGeometry x="840" y="885" width="165" height="135" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-16" value="TABLEROS&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="882" y="75" width="15" height="675" as="geometry" />
@@ -50,10 +50,10 @@
           <mxGeometry x="515" width="525" height="1170" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-20" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wallCorner;fillColor=#000000;direction=north;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry y="1080" width="135" height="100" as="geometry" />
+          <mxGeometry y="1080" width="135" height="90" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-21" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wallCorner;fillColor=#000000;direction=west;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="910" y="1080" width="130" height="100" as="geometry" />
+          <mxGeometry x="910" y="1080" width="130" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
