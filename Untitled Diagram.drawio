@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T16:56:44.828Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="IMySKoO6Z2zLkfvngAZd" version="14.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-25T16:59:07.297Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="ctE_7FpPgzlOUEpseB_o" version="14.2.2" type="github">
   <diagram name="Page-1" id="38b20595-45e3-9b7f-d5ca-b57f44c5b66d">
-    <mxGraphModel dx="2210" dy="1562" grid="0" gridSize="15" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1043" pageHeight="1181" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1579" dy="1116" grid="0" gridSize="15" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1043" pageHeight="1181" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -141,6 +141,18 @@
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-55" value="CUADROS&lt;br&gt;200 x 80 x 15" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="217" y="15" width="788" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r4qnVybcs4rJ6ydenGPn-56" value="ESTANTERIA&amp;nbsp;&lt;br&gt;40 x 40 x XXX" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="14" y="1005" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r4qnVybcs4rJ6ydenGPn-57" value="ESTANTERIA&amp;nbsp;&lt;br&gt;40 x 40 x XXX" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="12" y="1091" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r4qnVybcs4rJ6ydenGPn-58" value="ESTANTERIA&amp;nbsp;&lt;br&gt;40 x 40 x XXX" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="99" y="1003" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r4qnVybcs4rJ6ydenGPn-59" value="ESTANTERIA&amp;nbsp;&lt;br&gt;40 x 40 x XXX" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="98" y="1088" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
