@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T16:59:07.297Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="ctE_7FpPgzlOUEpseB_o" version="14.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-26T09:08:32.293Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="uQ4JrdiXnD0OY8mF27ud" version="14.2.2" type="github">
   <diagram name="Page-1" id="38b20595-45e3-9b7f-d5ca-b57f44c5b66d">
-    <mxGraphModel dx="1579" dy="1116" grid="0" gridSize="15" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1043" pageHeight="1181" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1579" dy="2297" grid="0" gridSize="15" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1043" pageHeight="1181" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry x="915" y="216" width="120" height="780" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-11" value="SOFA&lt;br&gt;60 x 90 x 220" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="662" y="418" width="240" height="360" as="geometry" />
+          <mxGeometry x="656" y="411" width="240" height="360" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-12" value="MOTO&lt;br&gt;61 x 175" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="231" y="480" width="240" height="690" as="geometry" />
@@ -97,8 +97,8 @@
         <mxCell id="r4qnVybcs4rJ6ydenGPn-39" value="BALDA&lt;br&gt;190 x 26" style="shape=rect;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;align=center;html=1;text=moto;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="399" y="-133" width="105" height="750" as="geometry" />
         </mxCell>
-        <mxCell id="r4qnVybcs4rJ6ydenGPn-40" value="CAJA ROPA&lt;br&gt;50 x 80&amp;nbsp;&lt;br&gt;x 8" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;rotation=-89;" vertex="1" parent="1">
-          <mxGeometry x="-49" y="65" width="318" height="200" as="geometry" />
+        <mxCell id="r4qnVybcs4rJ6ydenGPn-40" value="CAJA ROPA&lt;br&gt;50 x 80&amp;nbsp;&lt;br&gt;x 8" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;rotation=-89;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="638" y="714" width="200" height="318" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-41" value="ASPIRADORA" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="115" y="603" width="102" height="104" as="geometry" />
@@ -119,10 +119,10 @@
           <mxGeometry x="680" y="791" width="202" height="74" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-49" value="ZAPATERO&lt;br&gt;51 x 18.5 x 39 (39)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="680" y="867" width="202" height="74" as="geometry" />
+          <mxGeometry x="478" y="867" width="202" height="74" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-50" value="ZAPATERO&lt;br&gt;51 x 18.5 x 39 (39)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="679" y="792" width="202" height="74" as="geometry" />
+          <mxGeometry x="478" y="792" width="202" height="74" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-53" value="&lt;span&gt;CABECERO&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span&gt;80 x 5&amp;nbsp; x 176&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="490" y="591" width="318" height="20" as="geometry" />
@@ -153,6 +153,45 @@
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-59" value="ESTANTERIA&amp;nbsp;&lt;br&gt;40 x 40 x XXX" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="98" y="1088" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r4qnVybcs4rJ6ydenGPn-60" value="PLATOS&amp;nbsp;&lt;br&gt;&amp;nbsp;_ x _ x _" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="355" y="389" width="204" height="186" as="geometry" />
+        </mxCell>
+        <mxCell id="r4qnVybcs4rJ6ydenGPn-61" value="CAJA 120 l." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="172" y="-165" width="165" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="r4qnVybcs4rJ6ydenGPn-62" value="CAJA 120 l." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="187" y="-150" width="165" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="r4qnVybcs4rJ6ydenGPn-63" value="CAJA 120 l." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="187" y="-150" width="165" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="r4qnVybcs4rJ6ydenGPn-64" value="CAJA 120 l." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="202" y="-135" width="165" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="r4qnVybcs4rJ6ydenGPn-65" value="CAJA 120 l." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="202" y="-135" width="165" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="r4qnVybcs4rJ6ydenGPn-66" value="CAJA 120 l." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="217" y="-120" width="165" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="r4qnVybcs4rJ6ydenGPn-67" value="CAJA LIBROS." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="552" y="-212" width="109" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="r4qnVybcs4rJ6ydenGPn-68" value="CAJA LIBROS." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="567" y="-197" width="109" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="r4qnVybcs4rJ6ydenGPn-69" value="CAJA LIBROS." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="582" y="-182" width="109" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="r4qnVybcs4rJ6ydenGPn-70" value="CAJA LIBROS." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="597" y="-167" width="109" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="r4qnVybcs4rJ6ydenGPn-71" value="CAJA LIBROS." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="612" y="-152" width="109" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="r4qnVybcs4rJ6ydenGPn-72" value="CAJA LIBROS." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="627" y="-137" width="109" height="144" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
