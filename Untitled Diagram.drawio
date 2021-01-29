@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T16:38:34.608Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="twxQ62H0sVHEHedtw7CG" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-29T16:44:45.298Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="AqjEmy-kW-8CaHGScBpz" version="14.2.7" type="github">
   <diagram name="Page-1" id="38b20595-45e3-9b7f-d5ca-b57f44c5b66d">
     <mxGraphModel dx="1684" dy="2404" grid="0" gridSize="15" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1043" pageHeight="1181" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="r4qnVybcs4rJ6ydenGPn-2" value="ESTANTERIAS&lt;br&gt;190 x 38 x XXX" style="shape=rect;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;align=center;html=1;text=moto" parent="1" vertex="1">
-          <mxGeometry x="1407" y="237" width="150" height="750" as="geometry" />
+          <mxGeometry x="1397" y="138" width="150" height="750" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-8" value="LAVADORA&lt;br&gt;65 x 50" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="-13" y="745" width="240" height="195" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="900" y="261" width="15" height="675" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-27" value="KALLAX 5x5&lt;br&gt;185 x 39 x XXX" style="shape=rect;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;align=center;html=1;text=moto" parent="1" vertex="1">
-          <mxGeometry x="1054" y="220" width="150" height="750" as="geometry" />
+          <mxGeometry x="1067" y="136" width="150" height="750" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-28" value="KALLAX 4x3&lt;br&gt;146 x 39 x XXX" style="shape=rect;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;align=center;html=1;text=moto" parent="1" vertex="1">
           <mxGeometry x="1228" y="299" width="154" height="577" as="geometry" />
@@ -95,7 +95,7 @@
           <mxGeometry x="959" y="504" width="74" height="202" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-10" value="COLCHON&lt;br&gt;30 x 200 x 160" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="916" y="203" width="120" height="780" as="geometry" />
+          <mxGeometry x="482" y="162" width="120" height="780" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-37" value="CAJA 144 l." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="198" y="110" width="165" height="135" as="geometry" />
@@ -210,7 +210,7 @@
         </mxCell>
         <mxCell id="5UWoC-fxccsJFHag1fMj-10" value="Paredes" parent="0" />
         <mxCell id="r4qnVybcs4rJ6ydenGPn-22" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorDouble;aspect=fixed;strokeColor=#000000;fillColor=#ffffff;" parent="5UWoC-fxccsJFHag1fMj-10" vertex="1">
-          <mxGeometry x="132" y="1183" width="780" height="414.38" as="geometry" />
+          <mxGeometry x="125" y="1172" width="789" height="419.16" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-19" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wallCorner;fillColor=#000000;direction=south;strokeColor=#000000;" parent="5UWoC-fxccsJFHag1fMj-10" vertex="1">
           <mxGeometry x="515" width="525" height="1170" as="geometry" />
