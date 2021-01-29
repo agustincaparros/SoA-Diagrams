@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T09:37:10.922Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="zI_-ikk6LFvEGlmcyL5P" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-29T13:42:35.295Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="uoVOOy1l80pn77Bf_ulH" version="14.2.7" type="github">
   <diagram name="Page-1" id="38b20595-45e3-9b7f-d5ca-b57f44c5b66d">
-    <mxGraphModel dx="1179" dy="2037" grid="0" gridSize="15" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1043" pageHeight="1181" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1684" dy="2404" grid="0" gridSize="15" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1043" pageHeight="1181" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -192,6 +192,9 @@
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-72" value="CAJA LIBROS." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="627" y="-137" width="109" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="5UWoC-fxccsJFHag1fMj-1" value="PANTON pila 3&lt;br&gt;&amp;nbsp;_ x _ x _" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="-233" width="204" height="186" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
