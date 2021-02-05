@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-03T16:37:24.330Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="Ls40tMP2RT9h1akd_AIj" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-05T08:00:36.124Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="D9MoMI4MkZ2Ubi40ZpHQ" version="14.2.9" type="github">
   <diagram name="Page-1" id="38b20595-45e3-9b7f-d5ca-b57f44c5b66d">
-    <mxGraphModel dx="1666" dy="1203" grid="0" gridSize="15" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1043" pageHeight="1181" background="none" math="1" shadow="0">
+    <mxGraphModel dx="2709" dy="2378" grid="0" gridSize="15" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1043" pageHeight="1181" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="5UWoC-fxccsJFHag1fMj-10" value="Paredes" parent="0" />
@@ -20,35 +20,26 @@
           <mxGeometry x="910" y="1095" width="130" height="86" as="geometry" />
         </mxCell>
         <mxCell id="1" parent="0" />
-        <mxCell id="r4qnVybcs4rJ6ydenGPn-2" value="ESTANTERIAS&lt;br&gt;190 x 38 x XXX" style="shape=rect;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;align=center;html=1;text=moto" parent="1" vertex="1">
-          <mxGeometry x="1397" y="138" width="150" height="750" as="geometry" />
-        </mxCell>
-        <mxCell id="r4qnVybcs4rJ6ydenGPn-8" value="LAVADORA&lt;br&gt;65 x 50" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="-13" y="745" width="240" height="195" as="geometry" />
-        </mxCell>
-        <mxCell id="r4qnVybcs4rJ6ydenGPn-9" value="LAVAVAJILLAS&lt;br&gt;65 x 50" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="-11" y="361" width="240" height="195" as="geometry" />
-        </mxCell>
-        <mxCell id="r4qnVybcs4rJ6ydenGPn-16" value="TABLEROS&lt;br&gt;80 x200&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="900" y="261" width="15" height="675" as="geometry" />
-        </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-27" value="KALLAX 5x5&lt;br&gt;185 x 39 x XXX" style="shape=rect;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;align=center;html=1;text=moto" parent="1" vertex="1">
-          <mxGeometry x="1067" y="136" width="150" height="750" as="geometry" />
+          <mxGeometry x="886" y="210" width="150" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="r4qnVybcs4rJ6ydenGPn-2" value="ESTANTERIAS&lt;br&gt;190 x 38 x XXX" style="shape=rect;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;align=center;html=1;text=moto" parent="1" vertex="1">
+          <mxGeometry x="12" y="343" width="150" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="r4qnVybcs4rJ6ydenGPn-8" value="LAVADORA&lt;br&gt;65 x 50 x&amp;nbsp; 84.6" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;rotation=-90;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="23" y="783" width="195" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="r4qnVybcs4rJ6ydenGPn-9" value="LAVAVAJILLAS&lt;br&gt;65 x 50 x 81.5" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;rotation=-90;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="26" y="383" width="195" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="r4qnVybcs4rJ6ydenGPn-16" value="TABLEROS&lt;br&gt;XXX x80 x200" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="901" y="262" width="15" height="675" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-28" value="KALLAX 4x3&lt;br&gt;146 x 39 x XXX" style="shape=rect;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;align=center;html=1;text=moto" parent="1" vertex="1">
           <mxGeometry x="1228" y="299" width="154" height="577" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-34" value="BASE MESA aprox. 58&lt;br&gt;" style="shape=ellipse;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;align=center;html=1;" parent="1" vertex="1">
-          <mxGeometry x="586" y="90" width="230" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="r4qnVybcs4rJ6ydenGPn-35" value="CAJA 144 l." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="349" y="121" width="165" height="135" as="geometry" />
-        </mxCell>
-        <mxCell id="r4qnVybcs4rJ6ydenGPn-36" value="CAJA 144 l." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="666" y="118" width="165" height="135" as="geometry" />
-        </mxCell>
-        <mxCell id="r4qnVybcs4rJ6ydenGPn-38" value="CAJA 144 l." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="521" y="123" width="165" height="135" as="geometry" />
+          <mxGeometry x="610" y="57" width="230" height="230" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-40" value="CAJA ROPA&lt;br&gt;50 x 80&amp;nbsp;&lt;br&gt;x 8" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;rotation=-89;direction=south;" parent="1" vertex="1">
           <mxGeometry x="572" y="717" width="200" height="318" as="geometry" />
@@ -68,39 +59,6 @@
         <mxCell id="r4qnVybcs4rJ6ydenGPn-60" value="decks&amp;nbsp;&lt;br&gt;&amp;nbsp;_ x _ x _" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1343" y="1250" width="204" height="186" as="geometry" />
         </mxCell>
-        <mxCell id="r4qnVybcs4rJ6ydenGPn-61" value="CAJA 120 l." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="724" y="1293" width="165" height="135" as="geometry" />
-        </mxCell>
-        <mxCell id="r4qnVybcs4rJ6ydenGPn-62" value="CAJA 120 l." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="739" y="1308" width="165" height="135" as="geometry" />
-        </mxCell>
-        <mxCell id="r4qnVybcs4rJ6ydenGPn-63" value="CAJA 120 l." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="739" y="1308" width="165" height="135" as="geometry" />
-        </mxCell>
-        <mxCell id="r4qnVybcs4rJ6ydenGPn-64" value="CAJA 120 l." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="754" y="1323" width="165" height="135" as="geometry" />
-        </mxCell>
-        <mxCell id="r4qnVybcs4rJ6ydenGPn-65" value="CAJA 120 l." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="754" y="1323" width="165" height="135" as="geometry" />
-        </mxCell>
-        <mxCell id="r4qnVybcs4rJ6ydenGPn-67" value="CAJA LIBROS." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="1104" y="1246" width="109" height="144" as="geometry" />
-        </mxCell>
-        <mxCell id="r4qnVybcs4rJ6ydenGPn-68" value="CAJA LIBROS." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="1119" y="1261" width="109" height="144" as="geometry" />
-        </mxCell>
-        <mxCell id="r4qnVybcs4rJ6ydenGPn-69" value="CAJA LIBROS." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="1134" y="1276" width="109" height="144" as="geometry" />
-        </mxCell>
-        <mxCell id="r4qnVybcs4rJ6ydenGPn-70" value="CAJA LIBROS." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="1149" y="1291" width="109" height="144" as="geometry" />
-        </mxCell>
-        <mxCell id="r4qnVybcs4rJ6ydenGPn-71" value="CAJA LIBROS." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="1164" y="1306" width="109" height="144" as="geometry" />
-        </mxCell>
-        <mxCell id="r4qnVybcs4rJ6ydenGPn-72" value="CAJA LIBROS." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="1179" y="1321" width="109" height="144" as="geometry" />
-        </mxCell>
         <mxCell id="5UWoC-fxccsJFHag1fMj-1" value="PANTON pila 3&lt;br&gt;&amp;nbsp;_ x _ x _" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1642" y="1225" width="204" height="186" as="geometry" />
         </mxCell>
@@ -108,10 +66,7 @@
           <mxGeometry x="1272" y="861" width="74" height="202" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-10" value="COLCHON&lt;br&gt;30 x 200 x 160" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="482" y="162" width="120" height="780" as="geometry" />
-        </mxCell>
-        <mxCell id="r4qnVybcs4rJ6ydenGPn-37" value="CAJA 144 l." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="198" y="110" width="165" height="135" as="geometry" />
+          <mxGeometry x="919" y="284" width="120" height="630" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-29" value="lampara 31" style="shape=ellipse;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;align=center;html=1;" parent="1" vertex="1">
           <mxGeometry x="882" y="52" width="124" height="122" as="geometry" />
@@ -128,14 +83,14 @@
         <mxCell id="5UWoC-fxccsJFHag1fMj-3" value="ZAPATERO&lt;br&gt;51 x 18.5 x 39 (39)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;direction=south;" parent="1" vertex="1">
           <mxGeometry x="1357" y="865" width="74" height="202" as="geometry" />
         </mxCell>
-        <mxCell id="5UWoC-fxccsJFHag1fMj-4" value="ZAPATERO&lt;br&gt;51 x 18.5 x 39 (39)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;direction=west;" parent="1" vertex="1">
-          <mxGeometry x="826" y="856" width="202" height="74" as="geometry" />
+        <mxCell id="5UWoC-fxccsJFHag1fMj-4" value="ZAPATERO&lt;br&gt;51 x 18.5 x 39 (39)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;direction=north;" parent="1" vertex="1">
+          <mxGeometry x="967" y="980" width="74" height="202" as="geometry" />
         </mxCell>
         <mxCell id="5UWoC-fxccsJFHag1fMj-5" value="ZAPATERO&lt;br&gt;51 x 18.5 x 39 (39)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;direction=west;" parent="1" vertex="1">
-          <mxGeometry x="828" y="930" width="202" height="74" as="geometry" />
+          <mxGeometry x="1367" y="990" width="202" height="74" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-11" value="SOFA&lt;br&gt;60 (70) x 90 (100) x 220 (pata sup a 203)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="656" y="411" width="240" height="360" as="geometry" />
+          <mxGeometry x="638" y="360" width="276" height="394" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-53" value="&lt;span&gt;CABECERO&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span&gt;80 x 5&amp;nbsp; x 176&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="490" y="591" width="318" height="20" as="geometry" />
@@ -144,31 +99,79 @@
           <mxGeometry x="566" y="603" width="118" height="22" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-12" value="MOTO&lt;br&gt;61 x 175" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="226" y="480" width="243" height="690" as="geometry" />
+          <mxGeometry x="257" y="473" width="243" height="690" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-41" value="ASPIRADORA" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="15" y="579" width="102" height="104" as="geometry" />
+          <mxGeometry x="14" y="1060" width="102" height="104" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-42" value="TENDEDERO" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="16" y="688" width="183" height="32" as="geometry" />
+          <mxGeometry x="10" y="1032" width="183" height="32" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-58" value="ESTANTERIA&amp;nbsp;&lt;br&gt;40 x 40 x XXX" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="99" y="1003" width="80" height="80" as="geometry" />
+          <mxGeometry x="1073" y="391" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-56" value="ESTANTERIA&amp;nbsp;&lt;br&gt;40 x 40 x XXX" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="14" y="1005" width="80" height="80" as="geometry" />
+          <mxGeometry x="1088" y="529" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-57" value="ESTANTERIA&amp;nbsp;&lt;br&gt;40 x 40 x XXX" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="12" y="1091" width="80" height="80" as="geometry" />
+          <mxGeometry x="1081" y="778" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-59" value="ESTANTERIA&amp;nbsp;&lt;br&gt;40 x 40 x XXX" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="98" y="1088" width="80" height="80" as="geometry" />
+          <mxGeometry x="1095" y="652" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-66" value="CAJA 120 l.&lt;br&gt;60 x 49 x 41" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="1" y="1" width="237" height="194" as="geometry" />
+          <mxGeometry x="1047" y="1658" width="237" height="194" as="geometry" />
         </mxCell>
         <mxCell id="O3L0_yTSohYJSVkCb_aI-1" value="8.5 x 120 x 8.5&lt;br&gt;VIGA" style="shape=rect;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;align=center;html=1;text=moto" vertex="1" parent="1">
-          <mxGeometry x="1066" y="255" width="30" height="476" as="geometry" />
+          <mxGeometry x="883" y="351" width="30" height="476" as="geometry" />
+        </mxCell>
+        <mxCell id="O3L0_yTSohYJSVkCb_aI-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="887" y="393" width="15" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O3L0_yTSohYJSVkCb_aI-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="888" y="695" width="15" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O3L0_yTSohYJSVkCb_aI-4" value="PANTONS" style="shape=ellipse;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;align=center;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="192" width="192" height="194" as="geometry" />
+        </mxCell>
+        <mxCell id="O3L0_yTSohYJSVkCb_aI-5" value="CAJA 120 l.&lt;br&gt;60 x 49 x 41" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1062" y="1673" width="237" height="194" as="geometry" />
+        </mxCell>
+        <mxCell id="O3L0_yTSohYJSVkCb_aI-6" value="CAJA 120 l.&lt;br&gt;60 x 49 x 41" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1077" y="1688" width="237" height="194" as="geometry" />
+        </mxCell>
+        <mxCell id="O3L0_yTSohYJSVkCb_aI-9" value="CAJA 120 l.&lt;br&gt;49 x 60 x 41" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="18" y="24" width="195" height="238" as="geometry" />
+        </mxCell>
+        <mxCell id="O3L0_yTSohYJSVkCb_aI-10" value="CAJA 144 l.&lt;br&gt;49 x 60 x 60" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="66" y="-265" width="195" height="238" as="geometry" />
+        </mxCell>
+        <mxCell id="O3L0_yTSohYJSVkCb_aI-11" value="CAJA 144 l.&lt;br&gt;49 x 60 x 60" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="692" y="-250" width="195" height="238" as="geometry" />
+        </mxCell>
+        <mxCell id="O3L0_yTSohYJSVkCb_aI-12" value="CAJA 144 l.&lt;br&gt;49 x 60 x 60" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="263" y="-264" width="195" height="238" as="geometry" />
+        </mxCell>
+        <mxCell id="O3L0_yTSohYJSVkCb_aI-13" value="CAJA 144 l.&lt;br&gt;49 x 60 x 60" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="489" y="-240" width="195" height="238" as="geometry" />
+        </mxCell>
+        <mxCell id="O3L0_yTSohYJSVkCb_aI-15" value="CAJA libros&lt;br&gt;49 x 60 x 31" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="480" y="119" width="195" height="238" as="geometry" />
+        </mxCell>
+        <mxCell id="O3L0_yTSohYJSVkCb_aI-16" value="CAJA libros&lt;br&gt;49 x 60 x 31" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="495" y="134" width="195" height="238" as="geometry" />
+        </mxCell>
+        <mxCell id="O3L0_yTSohYJSVkCb_aI-17" value="CAJA libros&lt;br&gt;49 x 60 x 31" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="510" y="149" width="195" height="238" as="geometry" />
+        </mxCell>
+        <mxCell id="O3L0_yTSohYJSVkCb_aI-18" value="CAJA libros&lt;br&gt;49 x 60 x 31" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="525" y="164" width="195" height="238" as="geometry" />
+        </mxCell>
+        <mxCell id="O3L0_yTSohYJSVkCb_aI-19" value="CAJA libros&lt;br&gt;49 x 60 x 31" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="379" y="-19" width="195" height="238" as="geometry" />
+        </mxCell>
+        <mxCell id="O3L0_yTSohYJSVkCb_aI-20" value="CAJA libros&lt;br&gt;49 x 60 x 31" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="598" y="1" width="238" height="195" as="geometry" />
         </mxCell>
         <mxCell id="5UWoC-fxccsJFHag1fMj-7" value="38 - zapateros" parent="0" visible="0" />
         <mxCell id="5UWoC-fxccsJFHag1fMj-8" value="segundo piso" parent="0" visible="0" />
@@ -194,23 +197,23 @@
         <mxCell id="48ef80bc37b76060-383" value="MESA&amp;nbsp;&lt;br&gt;100 x 100 x 74.5" style="shape=ellipse;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;align=center;html=1;" parent="5UWoC-fxccsJFHag1fMj-9" vertex="1">
           <mxGeometry x="484" width="390" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="r4qnVybcs4rJ6ydenGPn-32" value="MESA PLEGLABLE&lt;br&gt;84 x 84&amp;nbsp; x 74" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="5UWoC-fxccsJFHag1fMj-9" vertex="1">
-          <mxGeometry x="229" y="121" width="329" height="329" as="geometry" />
+        <mxCell id="r4qnVybcs4rJ6ydenGPn-32" value="MESA PLEGLABLE&lt;br&gt;84 x 84&amp;nbsp; x 74.5" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="5UWoC-fxccsJFHag1fMj-9" vertex="1">
+          <mxGeometry x="-2" y="3" width="329" height="329" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-26" value="MESITA&amp;nbsp;&lt;br&gt;40 x 52 x 52" style="shape=rect;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;align=center;html=1;text=moto;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;direction=south;" parent="5UWoC-fxccsJFHag1fMj-9" vertex="1">
-          <mxGeometry x="12" y="361" width="154" height="205" as="geometry" />
+          <mxGeometry x="9" y="403" width="154" height="205" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-25" value="MESITA&amp;nbsp;&lt;br&gt;40 x 52 x 52" style="shape=rect;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;align=center;html=1;text=moto;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;direction=south;" parent="5UWoC-fxccsJFHag1fMj-9" vertex="1">
-          <mxGeometry x="11" y="735" width="154" height="205" as="geometry" />
+          <mxGeometry x="2" y="799" width="154" height="205" as="geometry" />
         </mxCell>
         <mxCell id="5UWoC-fxccsJFHag1fMj-6" value="BALDA&lt;br&gt;190 x 26" style="shape=rect;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;align=center;html=1;text=moto;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rotation=90;" parent="5UWoC-fxccsJFHag1fMj-9" vertex="1">
-          <mxGeometry x="404" y="-91" width="105" height="750" as="geometry" />
+          <mxGeometry x="480" y="-95" width="105" height="750" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-39" value="BALDA&lt;br&gt;190 x 26" style="shape=rect;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;align=center;html=1;text=moto;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rotation=90;" parent="5UWoC-fxccsJFHag1fMj-9" vertex="1">
-          <mxGeometry x="406" y="-193" width="105" height="750" as="geometry" />
+          <mxGeometry x="480" y="-204" width="105" height="750" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-24" value="BALDA&lt;br&gt;190 x 26" style="shape=rect;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;align=center;html=1;text=moto;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rotation=90;" parent="5UWoC-fxccsJFHag1fMj-9" vertex="1">
-          <mxGeometry x="404" y="-294" width="105" height="750" as="geometry" />
+          <mxGeometry x="481" y="-314" width="105" height="750" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-55" value="CUADROS&lt;br&gt;200 x 80 x 15" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="5UWoC-fxccsJFHag1fMj-9" vertex="1">
           <mxGeometry x="23" y="21" width="788" height="60" as="geometry" />
@@ -225,7 +228,7 @@
           <mxGeometry x="1224" y="1018" width="165" height="135" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-3" value="TABLA PLANCHA&lt;br&gt;60 x 120" style="shape=rect;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;align=center;html=1;text=moto;direction=south;" parent="5UWoC-fxccsJFHag1fMj-9" vertex="1">
-          <mxGeometry x="549" y="951" width="480" height="225" as="geometry" />
+          <mxGeometry x="506" y="961" width="480" height="225" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
