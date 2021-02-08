@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-05T16:28:27.424Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="cZA5ekO38ltnKpO3bGf9" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-08T11:23:35.316Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="Oej14RuZ0uVu9CtPVBZx" version="14.2.9" type="github">
   <diagram name="Page-1" id="38b20595-45e3-9b7f-d5ca-b57f44c5b66d">
     <mxGraphModel dx="2709" dy="1197" grid="0" gridSize="15" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1043" pageHeight="1181" background="none" math="1" shadow="0">
       <root>
@@ -164,8 +164,8 @@
         <mxCell id="O3L0_yTSohYJSVkCb_aI-20" value="CAJA libros&lt;br&gt;49 x 60 x 31" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;direction=south;" vertex="1" parent="1">
           <mxGeometry x="538" y="18" width="238" height="195" as="geometry" />
         </mxCell>
-        <mxCell id="5UWoC-fxccsJFHag1fMj-7" value="38 - zapateros" parent="0" visible="0" />
-        <mxCell id="5UWoC-fxccsJFHag1fMj-8" value="segundo piso" parent="0" visible="0" />
+        <mxCell id="5UWoC-fxccsJFHag1fMj-7" value="38 - zapateros" parent="0" />
+        <mxCell id="5UWoC-fxccsJFHag1fMj-8" value="segundo piso" parent="0" />
         <mxCell id="r4qnVybcs4rJ6ydenGPn-23" value="BALDA&lt;br&gt;190 x 26" style="shape=rect;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;align=center;html=1;text=moto;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="5UWoC-fxccsJFHag1fMj-8" vertex="1">
           <mxGeometry x="6" y="199" width="105" height="750" as="geometry" />
         </mxCell>
