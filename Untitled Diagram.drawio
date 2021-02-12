@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T16:44:42.064Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="8qnpDOB0MZshb7Tj3RQ3" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-12T09:24:25.932Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="NG0BlBEzVpzj7xcxoTnq" version="14.2.9" type="github">
   <diagram name="Page-1" id="38b20595-45e3-9b7f-d5ca-b57f44c5b66d">
-    <mxGraphModel dx="1666" dy="1197" grid="0" gridSize="15" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1043" pageHeight="1181" background="none" math="1" shadow="0">
+    <mxGraphModel dx="2709" dy="1197" grid="0" gridSize="15" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1043" pageHeight="1181" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="5UWoC-fxccsJFHag1fMj-10" value="Paredes" parent="0" />
@@ -96,7 +96,7 @@
           <mxGeometry x="697" y="1032" width="118" height="22" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-12" value="MOTO&lt;br&gt;61 x 175" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="307" y="385" width="243" height="690" as="geometry" />
+          <mxGeometry x="270" y="472" width="243" height="690" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-41" value="ASPIRADORA" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="148" y="565" width="102" height="104" as="geometry" />
@@ -165,7 +165,7 @@
           <mxGeometry x="538" y="18" width="238" height="195" as="geometry" />
         </mxCell>
         <mxCell id="5UWoC-fxccsJFHag1fMj-7" value="38 - zapateros" parent="0" />
-        <mxCell id="5UWoC-fxccsJFHag1fMj-8" value="segundo piso" parent="0" visible="0" />
+        <mxCell id="5UWoC-fxccsJFHag1fMj-8" value="segundo piso" parent="0" />
         <mxCell id="r4qnVybcs4rJ6ydenGPn-23" value="BALDA&lt;br&gt;190 x 26" style="shape=rect;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;align=center;html=1;text=moto;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="5UWoC-fxccsJFHag1fMj-8" vertex="1">
           <mxGeometry x="6" y="199" width="105" height="750" as="geometry" />
         </mxCell>
@@ -176,7 +176,7 @@
           <mxGeometry x="297" y="772" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5UWoC-fxccsJFHag1fMj-11" value="BALDA&lt;br&gt;190 x 26" style="shape=rect;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;align=center;html=1;text=moto;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="5UWoC-fxccsJFHag1fMj-8" vertex="1">
-          <mxGeometry x="6" y="199" width="105" height="750" as="geometry" />
+          <mxGeometry x="57" y="293" width="105" height="750" as="geometry" />
         </mxCell>
         <mxCell id="5UWoC-fxccsJFHag1fMj-12" value="CUBO&amp;nbsp;&lt;br&gt;33 x 30" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" parent="5UWoC-fxccsJFHag1fMj-8" vertex="1">
           <mxGeometry x="332" y="852" width="120" height="60" as="geometry" />
@@ -213,13 +213,13 @@
           <mxGeometry x="157" y="-65" width="225" height="480" as="geometry" />
         </mxCell>
         <mxCell id="r4qnVybcs4rJ6ydenGPn-2" value="ESTANTERIAS&lt;br&gt;190 x 38 x XXX" style="shape=rect;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;align=center;html=1;text=moto" parent="5UWoC-fxccsJFHag1fMj-9" vertex="1">
-          <mxGeometry x="9" y="354" width="150" height="750" as="geometry" />
+          <mxGeometry x="-207" y="221" width="150" height="750" as="geometry" />
         </mxCell>
         <mxCell id="O3L0_yTSohYJSVkCb_aI-21" value="ESTANTERIAS&lt;br&gt;190 x 38 x XXX" style="shape=rect;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;align=center;html=1;text=moto" vertex="1" parent="5UWoC-fxccsJFHag1fMj-9">
-          <mxGeometry x="6" y="429" width="150" height="750" as="geometry" />
+          <mxGeometry x="-175" y="263" width="150" height="750" as="geometry" />
         </mxCell>
-        <mxCell id="O3L0_yTSohYJSVkCb_aI-22" value="LIBRERIAS&lt;br&gt;60 x 64 x 20" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="5UWoC-fxccsJFHag1fMj-9">
-          <mxGeometry x="39" y="45" width="195" height="238" as="geometry" />
+        <mxCell id="O3L0_yTSohYJSVkCb_aI-22" value="LIBRERIAS&lt;br&gt;60 x 38.5 x 20" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="5UWoC-fxccsJFHag1fMj-9">
+          <mxGeometry x="44" y="65" width="239" height="151" as="geometry" />
         </mxCell>
         <mxCell id="O3L0_yTSohYJSVkCb_aI-23" value="CAJA ARMARIO&lt;br&gt;50 x 50" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="5UWoC-fxccsJFHag1fMj-9">
           <mxGeometry x="492" y="47" width="199" height="198" as="geometry" />
